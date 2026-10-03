@@ -9,7 +9,6 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011%20x64-0078D4)
 ![License](https://img.shields.io/badge/license-Freeware-brightgreen)
 ![Source](https://img.shields.io/badge/source-GPL--2.0--or--later-lightgrey)
-![Version](https://img.shields.io/badge/version-1.1.0-blue)
 [![Download](https://img.shields.io/badge/download-kilho.net-orange)](https://down.kilho.net/kplayer?lang=pt)
 
 ![Captura de tela do KPlayer](images/kplayer-en.webp)
