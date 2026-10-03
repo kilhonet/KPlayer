@@ -251,15 +251,6 @@ O idioma da interface segue o idioma de exibição do Windows (coreano, inglês,
 
 O KPlayer **não** se atualiza sozinho. Ao iniciar, ele verifica se há uma nova versão e mostra um aviso; se você optar por obtê-la, a página de download é aberta e o programa é fechado. Novas versões são publicadas manualmente após verificação interna e anunciadas na [página do KPlayer](https://kilho.net/kplayer). Veja o [aviso sobre a política de atualizações](https://en.kilho.net/archives/notice/2940).
 
-**Histórico de versões**
-
-| Versão | Data | Notas |
-|---|---|---|
-| 1.1.0 | 2026-09-29 | Opções para reproduzir na janela já aberta ou adicionar à lista dela, adição automática dos próximos vídeos da mesma pasta, abrir vários arquivos começa pelo primeiro selecionado, janela de configurações mais organizada, menu de tamanho da tela com 50%·100%·150%·200%, mais estabilidade e compatibilidade com sistemas atuais |
-| 1.0.0 | 2026-09-13 | Abrir arquivos e pastas pela tela inicial, pelo menu do botão direito e com `Ctrl+O`; abertura mais fácil dos 38 formatos; associação dos arquivos comuns e ícones de arquivo logo após a instalação; inicialização mais confiável; ações do mouse e atalhos personalizáveis |
-| 0.9.9 | 2026-09-11 | Configuração das ações do mouse, configuração de atalhos (29 ações), idioma de legenda automático, botão sempre visível, personalização de fonte/cor/contorno/sombra/posição das legendas, menu de tamanho da tela, tamanho da janela ao reproduzir, posição e tamanho da janela lembrados, janela de configurações mais organizada |
-| 0.9.8 | 2026-09-05 | Salvamento das configurações mais confiável, mais estabilidade e resposta mais rápida em geral |
-
 ## Compilar a partir do código-fonte
 
 O código é público em [github.com/newkilho/KPlayer](https://github.com/newkilho/KPlayer). Ele é compilado com o [Lazarus](https://www.lazarus-ide.org/) 4.x (FPC 3.2.2, Win64) e precisa de:

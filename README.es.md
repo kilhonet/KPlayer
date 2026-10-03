@@ -249,15 +249,6 @@ El idioma de la interfaz sigue el idioma de visualización de Windows (coreano, 
 
 KPlayer **no** se actualiza solo. Al iniciarse comprueba si hay una versión nueva y muestra un aviso; si decides descargarla, se abre la página de descarga y el programa se cierra. Las versiones nuevas se publican manualmente tras una verificación interna y se anuncian en la [página de KPlayer](https://kilho.net/kplayer). Consulta el [aviso sobre la política de actualizaciones](https://en.kilho.net/archives/notice/2940).
 
-**Historial de versiones**
-
-| Versión | Fecha | Notas |
-|---|---|---|
-| 1.1.0 | 2026-09-29 | Opciones de inicio para reproducir en la ventana abierta o añadir a su lista, adición automática de los siguientes vídeos de la misma carpeta, al abrir varios archivos la reproducción empieza por el primero seleccionado, ventana de configuración más ordenada, menú de tamaño de pantalla con 50%·100%·150%·200%, mayor estabilidad y compatibilidad con los sistemas actuales |
-| 1.0.0 | 2026-09-13 | Abrir archivos y carpetas desde la pantalla de inicio, el menú contextual y `Ctrl+O`; apertura mejorada de los 38 formatos; asociación de los archivos principales e iconos de archivo justo tras la instalación; inicio más fiable; acciones del ratón y atajos personalizables |
-| 0.9.9 | 2026-09-11 | Configuración de acciones del ratón, configuración de atajos (29 acciones), selección automática del idioma de subtítulos, botón de siempre visible, personalización de fuente, color, contorno, sombra y posición de los subtítulos, menú de tamaño de pantalla, elección del tamaño de ventana al reproducir, posición y tamaño de ventana recordados, ventana de configuración más ordenada |
-| 0.9.8 | 2026-09-05 | Guardado de la configuración más fiable, mejor estabilidad y rapidez de respuesta en general |
-
 ## Compilar desde el código fuente
 
 El código es público en [github.com/newkilho/KPlayer](https://github.com/newkilho/KPlayer). Se compila con [Lazarus](https://www.lazarus-ide.org/) 4.x (FPC 3.2.2, Win64) y necesita:

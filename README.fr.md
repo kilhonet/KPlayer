@@ -249,15 +249,6 @@ La langue de l'interface suit la langue d'affichage de Windows (coréen, anglais
 
 KPlayer **ne** se met **pas** à jour tout seul. Au démarrage, il vérifie s'il existe une nouvelle version et affiche un avis ; si vous choisissez de la récupérer, la page de téléchargement s'ouvre et le programme se ferme. Les nouvelles versions sont publiées manuellement après vérification interne et annoncées sur la [page KPlayer](https://kilho.net/kplayer). Consultez l'[avis sur la politique de mise à jour](https://en.kilho.net/archives/notice/2940).
 
-**Historique des versions**
-
-| Version | Date | Notes |
-|---|---|---|
-| 1.1.0 | 2026-09-29 | Options de lancement pour lire dans la fenêtre ouverte ou ajouter à sa liste, ajout automatique des vidéos suivantes du même dossier, lecture à partir du premier fichier sélectionné à l'ouverture de plusieurs fichiers, fenêtre des Paramètres réorganisée, menu de taille de l'écran à 50%·100%·150%·200%, meilleures stabilité et compatibilité avec les systèmes récents |
-| 1.0.0 | 2026-09-13 | Ouverture de fichiers et de dossiers depuis l'écran d'accueil, le menu du clic droit et `Ctrl+O` ; ouverture des 38 formats améliorée ; associations des fichiers courants et icônes de fichiers dès l'installation ; lancement plus fiable ; actions de la souris et raccourcis personnalisables |
-| 0.9.9 | 2026-09-11 | Réglage des actions de la souris, réglage des raccourcis (29 actions), choix automatique de la langue des sous-titres, bouton toujours au premier plan, personnalisation de la police, de la couleur, du contour, de l'ombre et de la position des sous-titres, menu de taille de l'écran, choix de la taille de la fenêtre à la lecture, mémorisation de la position et de la taille de la fenêtre, fenêtre des Paramètres réorganisée |
-| 0.9.8 | 2026-09-05 | Enregistrement des réglages plus fiable, meilleures stabilité et réactivité générales |
-
 ## Compiler depuis les sources
 
 Le code source est public sur [github.com/newkilho/KPlayer](https://github.com/newkilho/KPlayer). Il se compile avec [Lazarus](https://www.lazarus-ide.org/) 4.x (FPC 3.2.2, Win64) et nécessite :

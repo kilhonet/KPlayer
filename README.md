@@ -249,15 +249,6 @@ The interface language follows your Windows display language (Korean, English, J
 
 KPlayer does **not** update itself. At startup it checks for a new version and shows a notice; if you choose to get it, the download page opens and the program closes. New versions are released manually after internal testing and announced on the [KPlayer page](https://kilho.net/kplayer). See the [update policy notice](https://en.kilho.net/archives/notice/2940).
 
-**Version history**
-
-| Version | Date | Changes |
-|---|---|---|
-| 1.1.0 | 2026-09-29 | Options to play in the running window or add to its playlist, automatic adding of the next videos in the same folder, opening several files starts from the first one selected, tidier Settings window, screen size menu at 50%·100%·150%·200%, better stability and compatibility with current systems |
-| 1.0.0 | 2026-09-13 | Open files and folders from the start screen, the right-click menu and `Ctrl+O`; easier opening of 38 formats; common file associations and file icons right after installation; better launch reliability; customizable mouse actions and shortcuts |
-| 0.9.9 | 2026-09-11 | Mouse action settings, shortcut settings (29 actions), automatic subtitle language, always-on-top button, subtitle font/color/outline/shadow/position styling, screen size menu, window size on play, remembered window position and size, tidier Settings window |
-| 0.9.8 | 2026-09-05 | More reliable settings saving, better overall stability and responsiveness |
-
 ## Building from Source
 
 The source is available at [github.com/newkilho/KPlayer](https://github.com/newkilho/KPlayer). It is built with [Lazarus](https://www.lazarus-ide.org/) 4.x (FPC 3.2.2, Win64) and needs:
